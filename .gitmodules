@@ -1,6 +1,7 @@
 [submodule "theme"]
 	path = theme
-	url = ./theme
+	url = https://github.com/Automattic/wpcloud-station-theme.git
+
 [submodule "plugin"]
 	path = plugin
-	url = ./plugin
+	url = https://github.com/Automattic/wpcloud-station-plugin.git
