@@ -1,0 +1,6 @@
+[submodule "theme"]
+	path = theme
+	url = ./theme
+[submodule "plugin"]
+	path = plugin
+	url = ./plugin
